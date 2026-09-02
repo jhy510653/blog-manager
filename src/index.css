@@ -1,0 +1,31 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    background-color: #FFFAF5;
+    color: #3A2A1F;
+    font-family: Pretendard, -apple-system, BlinkMacSystemFont, system-ui, Roboto, 'Helvetica Neue', 'Segoe UI', 'Apple SD Gothic Neo', sans-serif;
+  }
+}
+
+/* 카드뉴스 전용 스타일 */
+.card-news-container {
+  background-color: #ffffff !important;
+  color: #1e293b !important;
+  border-radius: 20px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.05);
+  border: 1px solid #e2e8f0;
+}
+
+.card-news-title {
+  color: #0f172a !important;
+  font-weight: 700;
+  letter-spacing: -0.025em;
+}
+
+.card-news-box {
+  background-color: #f8fafc !important;
+  border: 1px solid #cbd5e1 !important;
+  border-radius: 12px;
+  color: #334155 !important;
+}

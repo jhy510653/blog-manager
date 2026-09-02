@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/api/gemini/toolkit", "destination": "/api/gemini/toolkit" },
+    { "source": "/api/gemini/ai-graphic", "destination": "/api/gemini/ai-graphic" }
+  ]
+}

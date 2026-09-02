@@ -1,0 +1,6 @@
+{
+  "name": "챌린지 모니터링 대시보드",
+  "description": "챌린지 그룹별 참가자 통계, 포스팅, 방문자 수, 트윗 모니터링 및 CSV 다운로드 대시보드",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
